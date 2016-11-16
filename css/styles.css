@@ -14,3 +14,7 @@ body {
   margin: 90px auto 0; /* 90px margin-top/bottom and auto width */
   width: 880px;
 }
+
+.content {
+  float: right;
+}
