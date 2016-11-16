@@ -1,1 +1,1 @@
-# copycat-assignment
+# CSS Site Replication (Old Instagram Homepage)
